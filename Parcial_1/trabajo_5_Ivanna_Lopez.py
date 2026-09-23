@@ -1,0 +1,12 @@
+from whalesbot import *
+move_time(forward 20, 3.5)
+move_time(left 10, 0.8)
+move_time(forward 20, 3.5)
+move_time( backward 20,3.4)
+move_time( left 10, 0.8)
+move_time( backward20, 3.5)
+move_time(left 10, 0.8)
+move_time(forward 20, 3.5)
+move_time( backward 20,3.4)
+move_time( right 10, 0.8)
+move_time( forward 20, 3.4)
